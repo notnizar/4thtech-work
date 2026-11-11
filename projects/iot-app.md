@@ -10,6 +10,13 @@
 One Flutter app, for Android and iPhone, for every 4Tech smart-home device. It comes with
 the ESP32 firmware the devices run.
 
+| Home | A water tank | Sign-in |
+|---|---|---|
+| ![Home screen](../assets/screenshots/app-home-light.png) | ![Water tank, dark mode](../assets/screenshots/app-sheet-tank-dark.png) | ![Sign-in screen](../assets/screenshots/app-sign-in-light.png) |
+
+*The app screenshots on this page are drawn by the app's own preview tests, with sample
+data.*
+
 ## The main idea: the app knows no products
 
 The app has no code for a water tank, a light or a plug. Each device's firmware publishes a
@@ -64,6 +71,18 @@ store review.
 - **Demo mode.** From the sign-in screen, anyone can open the app with sample devices: no
   account, no hardware, nothing sent to the server. The demo runs the real screens against
   a stand-in backend inside the app.
+
+| Devices | A light | History, settings and alerts |
+|---|---|---|
+| ![Devices list](../assets/screenshots/app-devices-light.png) | ![Smart light controls](../assets/screenshots/app-sheet-light.png) | ![Tank history, settings and alert rules](../assets/screenshots/app-history-tank-light.png) |
+
+| Alerts | A new alert rule | Firmware update |
+|---|---|---|
+| ![Alerts list](../assets/screenshots/app-alerts-light.png) | ![New alert rule](../assets/screenshots/app-alert-rule-new-light.png) | ![Firmware update](../assets/screenshots/app-sheet-tank-firmware-light.png) |
+
+| People in a site | Demo mode | Dark mode |
+|---|---|---|
+| ![Site members](../assets/screenshots/app-site-owner-light.png) | ![The demo, explaining device setup](../assets/screenshots/app-demo-add-device-light.png) | ![Home, dark mode](../assets/screenshots/app-home-dark.png) |
 
 ## How the app is built
 

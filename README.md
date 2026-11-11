@@ -65,6 +65,10 @@ graph LR
     FCM --> App
 ```
 
+| Home | A water tank | Sign-in |
+|---|---|---|
+| ![App home screen](assets/screenshots/app-home-light.png) | ![Water tank in the app](assets/screenshots/app-sheet-tank-dark.png) | ![App sign-in screen](assets/screenshots/app-sign-in-light.png) |
+
 - Set a device up over Bluetooth; its Wi-Fi password travels encrypted.
 - Control it from anywhere through the server, or directly over Bluetooth when the internet
   is down.
